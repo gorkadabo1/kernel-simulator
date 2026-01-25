@@ -2,7 +2,7 @@
 
 A multi-threaded operating system kernel simulator written in ANSI C that implements core OS components including process scheduling, virtual memory management with paging, and address translation through MMU and TLB.
 
-Developed as part of the Operating Systems course at EHU (Euskal Herriko Unibertsitatea) during the Computer Engineering degree.
+Developed as part of the Operating Systems course at EHU during the Computer Engineering degree.
 
 ## Overview
 
