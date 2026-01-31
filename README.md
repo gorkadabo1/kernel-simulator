@@ -65,6 +65,8 @@ kernel-simulator/
 ├── tlb.c/.h                  # Translation Lookaside Buffer
 ├── utilities.c/.h            # Helper functions
 ├── CMakeLists.txt            # Build configuration
+├── docs/                     # Project documentation
+│   └── os_kernel_simulation_report.pdf
 └── elf/                      # Directory for ELF executables
     └── prog*.elf             # Sample programs
 ```
